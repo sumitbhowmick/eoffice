@@ -1,0 +1,9 @@
+Confirmation Needed-
+1. HRMS need to be developed or integrated?
+2. Are all the core capabilities mentioned in Corrigendum are optional?  (Page 5 Corr II)
+3. Does common applications mentioned in corrigendum completely supersede the common applications mentioned in RFP?
+4. What are the Department specific applications to be developed?
+5. Is is mandatory to use technology stack mentioned in page 114 of RFP?
+
+
+Need high level requirement of common applications mentioned in corrigendum
